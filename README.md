@@ -118,7 +118,8 @@ The program generates matplotlib plots showing:
 - All signals are processed with the same sample rate
 
 ## Author
-[Your Name/Organization]
+Vatsal Kotha
+Gaurang Singhania
 
 ## Course
 SEM 8 - Digital Signal Processing (DSP)
